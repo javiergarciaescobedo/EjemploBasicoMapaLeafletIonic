@@ -1,0 +1,7 @@
+{
+  "name": "EjemploLeaflet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
